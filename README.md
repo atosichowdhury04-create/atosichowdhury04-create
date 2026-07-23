@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Atosi Chowdhury 👋
+# Hi, I'm Atosi Chowdhury 
 
 I'm a Computer Science student at The City College of New York (CCNY) with a strong interest in Artificial Intelligence, Machine Learning, and Software Engineering.
 
