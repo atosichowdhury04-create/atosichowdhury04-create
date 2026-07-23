@@ -19,13 +19,13 @@ I'm a Computer Science student at The City College of New York (CCNY) with a str
 
 I'm currently building my skills through coursework, hands-on projects, and AI applications while expanding my knowledge of Python, machine learning, and software development.
 
-## 🌱 Currently Learning
+## Currently Learning
 - Python
 - Machine Learning
 - OpenAI APIs
 - Git & GitHub
 
-## 💻 Interests
+## Interests
 - Artificial Intelligence
 - Machine Learning
 - Software Engineering
@@ -46,4 +46,4 @@ I'm currently building my skills through coursework, hands-on projects, and AI a
 - Developed interactive Python games and music-based programming projects during Google's 27-week Code Next program while strengthening Python programming and collaborative software development skills.
 
 ### C++ Programming Projects
-Completed multiple C++ projects, including Conway's Game of Life, comment removal utilities, linked-list sorting algorithms, and other programming assignments focused on problem solving and software development.
+- Completed multiple C++ projects, including Conway's Game of Life, comment removal utilities, linked-list sorting algorithms, and other programming assignments focused on problem solving and software development.
