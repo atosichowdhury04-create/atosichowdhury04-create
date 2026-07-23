@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Atosi Chowdhury 👋
+
+I'm a Computer Science student at **The City College of New York (CCNY)** with a strong interest in **Artificial Intelligence, Machine Learning, and Software Engineering**.
+
+I'm currently building my skills through coursework, hands-on projects, and AI applications while expanding my knowledge of Python, machine learning, and software development.
+
+## 🌱 Currently Learning
+- Python
+- Machine Learning
+- OpenAI APIs
+- Git & GitHub
+
+## 💻 Interests
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- AI-Powered Applications
